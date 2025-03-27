@@ -3,7 +3,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Gigi Nails',
-  description: 'Professional nail design services',
+  description: 'Kid-friendly nail salon',
 }
 
 export default function RootLayout({
