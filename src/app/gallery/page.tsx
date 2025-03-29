@@ -8,9 +8,19 @@ export default function GalleryPage() {
   
   const designs = [
     {
+      title: "Butterfly Dreams",
+      description: "Delicate butterfly designs perfect for little princesses",
+      imageUrl: "/images/butterfly-dreams.jpg"
+    },
+    {
       title: "Rainbow Sparkles",
-      description: "Colorful rainbow design with sparkly purple base",
+      description: "Colorful and sparkly designs that kids love",
       imageUrl: "/images/rainbow-sparkles.jpg"
+    },
+    {
+      title: "Unicorn Magic",
+      description: "Magical unicorn-themed nail art",
+      imageUrl: "/images/unicorn-magic.jpg"
     }
   ];
 
